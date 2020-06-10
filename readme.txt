@@ -1,1 +1,2 @@
-Hello WorldWelcome to Git Desktop
+Hello World
+Welcome to Git Desktop
